@@ -2,13 +2,13 @@
 
 A well-structured Flutter application built to demonstrate a complete user authentication flow and dashboard interface. This project serves as a template for a multi-page mobile app, featuring a splash screen, login, registration, and a functional dashboard with bottom navigation.
 
-| Login Page | Register Page |
-| :---: | :---: |
+|            Login Page             |            Register Page             |
+|:---------------------------------:|:------------------------------------:|
 | ![Login Page](assets/image/1.png) | ![Register Page](assets/image/2.png) |
-| **Dashboard** | **Programs** |
-| ![Dashboard](assets/image/3.png) | ![Programs](assets/image/4.png) |
-| **Profile** | **Splash Screen** |
-| ![Profile](assets/image/5.png) | ![Splash Screen](assets/image/6.png) |
+|   **After Fill-Up Login page**    |            **Dashboard**             |
+| ![Dashboard](assets/image/3.png)  |   ![Programs](assets/image/4.png)    |
+|            **Program**            |          **Profile Screen**          |
+|  ![Profile](assets/image/5.png)   | ![Splash Screen](assets/image/6.png) |
 
 ---
 ## 🌟 Key Features
