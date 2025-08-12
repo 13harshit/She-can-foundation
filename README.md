@@ -11,7 +11,7 @@ A well-structured Flutter application built to demonstrate a complete user authe
 | ![Profile](assets/image/5.png) | ![Splash Screen](assets/image/6.png) |
 
 ---
-
+![Login Page Screenshot](assets/image/1.png)
 ## 🌟 Key Features
 
 *   **Splash Screen:** An initial loading screen that navigates to the login page.
